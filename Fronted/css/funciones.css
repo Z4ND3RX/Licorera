@@ -1,0 +1,52 @@
+.errorCampos {
+    color: red;
+    font-style: italic;
+}
+
+#errorPrecioCompra {
+    display: none;
+}
+
+#errorPrecioVenta {
+    display: none;
+}
+
+#errorNombre {
+    display: none;
+}
+
+#errorLogin {
+    display: none;
+}
+
+#errorCantidad {
+    display: none;
+}
+
+#errorCodigo {
+    display: none;
+}
+
+#errorPrecioCompraM {
+    display: none;
+}
+
+#errorPrecioVentaM {
+    display: none;
+}
+
+#errorNombreM {
+    display: none;
+}
+
+#errorCantidadM {
+    display: none;
+}
+
+#imprir {
+    visibility: visible;
+}
+
+#facturar {
+    visibility: visible;
+}
